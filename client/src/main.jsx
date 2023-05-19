@@ -6,7 +6,7 @@ import axios from 'axios';
 import './index.css'
 
 
-axios.defaults.baseURL = 'http://localhost:5000';
+axios.defaults.baseURL = 'https://butternut-ai.onrender.com/';
 
 ReactDOM.render(
   <React.StrictMode>
