@@ -1,7 +1,5 @@
 Flask==2.0.1
 Flask-PyMongo==2.3.0
 Gunicorn
-dotenv
+Python-dotenv
 Flask-Cors==3.0.10
-
-pymongo==3.12.0
